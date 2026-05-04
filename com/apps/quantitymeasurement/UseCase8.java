@@ -1,8 +1,7 @@
+package com.apps.quantitymeasurement;
+
 import java.util.Objects;
 
-// ===============================
-// ✅ Standalone Enum (UC8)
-// ===============================
 enum LengthUnit {
 
     // Base unit = FEET
